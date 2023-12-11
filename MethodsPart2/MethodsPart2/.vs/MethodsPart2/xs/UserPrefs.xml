@@ -1,16 +1,17 @@
-﻿<Properties StartupConfiguration="{B1E58B2C-8F43-4CBE-81ED-547128E6AD3E}|Default">
-  <MonoDevelop.Ide.ItemProperties.MethodsExercise PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{E07BED29-0F48-4433-B13E-ADA87DD1E33D}|Default">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MethodsExercise/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MethodsPart2/Program.cs">
     <Files>
-      <File FileName="MethodsExercise/Program.cs" Line="7" Column="108" />
+      <File FileName="MethodsPart2/Program.cs" Line="3" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="MethodsExercise">
-            <Node name="MethodsExercise" expanded="True" />
+          <Node name="MethodsPart2" expanded="True">
+            <Node name="MethodsPart2">
+              <Node name="Program.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -23,4 +24,5 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.MethodsPart2 PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
 </Properties>
